@@ -91,6 +91,7 @@ Base.metadata.create_all(bind=db)
 # session.commit()
 
 # CLI Command-Line Interface | Interface de Linha de Comando
+# python meu_programa.py add-task "Estudar SQLAlchemy" "Fazer exemplos práticos" "2024-12-20" "Maria" "Trabalho" "Pendente"
 
 def add_task(titulo,descrição,prazo,usuario,categoria,status): 
     from datetime import datetime
