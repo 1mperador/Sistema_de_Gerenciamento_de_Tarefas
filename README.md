@@ -4,8 +4,8 @@ Este é um projeto simples que implementa as operações básicas de um CRUD (Cr
 
 ## Requisitos
 
-- Python 3.7 ou superior
-- Biblioteca `SQLAlchemy`
+- **Python 3.7** ou superior
+- **SQLAlchemy**
 
 Para instalar o SQLAlchemy:
 ```bash
